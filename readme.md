@@ -12,7 +12,7 @@ iiPeasantCap is a C# library supporting the modification of files relating to Tz
 | DAT    | ✗   |   ✗   | 
 | DDV    | ✗   |   ✗   | Video
 | FNT    | ✗   |   ✗   | Font
-| HMM    | ✗   |   ✗   | Archive
+| HMM    | ✔   |   ✗   | Archive
 | INI    | ✗   |   ✗   | Plain text
 | MID    | ✗   |   ✗   | Music
 | PAL    | ✗   |   ✗   | Palette
