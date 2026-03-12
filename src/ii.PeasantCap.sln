@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.2.11415.280 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ii.PeasantCap", "ii.PeasantCap.csproj", "{9EC64B87-74C2-3F48-9B79-D6FDF8C5225E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EC64B87-74C2-3F48-9B79-D6FDF8C5225E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC64B87-74C2-3F48-9B79-D6FDF8C5225E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC64B87-74C2-3F48-9B79-D6FDF8C5225E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC64B87-74C2-3F48-9B79-D6FDF8C5225E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1796D12F-B19E-4898-BE6E-09804BA2E831}
+	EndGlobalSection
+EndGlobal
